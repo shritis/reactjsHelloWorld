@@ -15,7 +15,11 @@ Here i have npm installed
 8. webpack-dev-server
 
 Please do npm install after downloading this tutorial.
+
 After installing all this npm files, then created a webpack.config.js, which is the copy paste from the youtube tutorial link.
+
 Then edited the scripts portion of package.json, added the start and build, so that using webpack is easy.
+
 Added a index.js file and just typed an alert.
+
 In the index.html file just added the output "bundle.js" created by webpack.
